@@ -1,0 +1,17 @@
+name: hair_transplant_tracker_mobile
+description: Hair transplant case tracking app
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  http: ^1.2.2
+
+flutter:
+  uses-material-design: true
