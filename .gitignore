@@ -3,6 +3,7 @@ __pycache__/
 .pytest_cache/
 backend/.venv/
 backend/app.db
+backend/test.db
 .env
 .dart_tool/
 build/
